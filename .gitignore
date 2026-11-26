@@ -1,0 +1,26 @@
+# KiCad: backups, lock files and local settings
+.history/
+*-backups/
+*.lck
+~*.lck
+_autosave-*
+*.kicad_prl
+fp-info-cache
+*.bak
+*-bak
+\#auto_saved_files#
+
+# QMK build output
+.build/
+*.uf2
+*.elf
+*.hex
+*.bin
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db

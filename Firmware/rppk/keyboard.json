@@ -1,0 +1,37 @@
+{
+    "manufacturer": "Pickels 3D LAB",
+    "keyboard_name": "RP2040 Mini Keyboard",
+    "maintainer": "Niclas Söderlund",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "board": "GENERIC_RP_RP2040",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x2040",
+        "device_version": "1.0.0"
+    },
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": false
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP22", "GP23", "GP19", "GP20"]
+        ]
+    },
+    "bootmagic": {
+        "matrix": [0, 0]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "Key 1", "matrix": [0, 0], "x": 0, "y": 0},
+                {"label": "Key 2", "matrix": [0, 1], "x": 1, "y": 0},
+                {"label": "Key 3", "matrix": [0, 2], "x": 2, "y": 0},
+                {"label": "Key 4", "matrix": [0, 3], "x": 3, "y": 0}
+            ]
+        }
+    }
+}

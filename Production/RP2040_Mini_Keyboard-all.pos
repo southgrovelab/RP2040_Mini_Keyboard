@@ -1,0 +1,48 @@
+### Footprint positions - created on 2026-11-26T19:23:42 ###
+### Printed by KiCad version 10.0.8
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                    Package                                              PosX       PosY       Rot  Side
+D1        SML-D12V8WT86          LED_0603_1608Metric                              100.0000  -102.0000    0.0000  bottom
+D2        USBLC6-2SC6            SOT-23-6                                         100.0000   -82.0000  -90.0000  bottom
+J3        USB_A                  USB_A_Molex_48037-2200_Horizontal                100.0000   -66.5200   90.0000  bottom
+R3        1k                     R_0603_1608Metric                                103.1000  -102.0000  180.0000  bottom
+REF**     INFO                   INFO                                              93.8200  -108.6800  -90.0000  bottom
+Sw1       ~                      SKHU_                                            100.0000   -87.0000  180.0000  bottom
+Sw2       ~                      SKHU_                                            100.0000   -97.0000  180.0000  bottom
+Sw3       ~                      SKHU_                                            100.0000  -107.0000  180.0000  bottom
+Sw4       ~                      SKHU_                                            100.0000  -117.0000  180.0000  bottom
+C1        1u                     C_0402_1005Metric                                102.9200   -94.0300   90.0000  top
+C2        15p                    C_0402_1005Metric                                 97.0700  -110.4200  180.0000  top
+C3        100n                   C_0402_1005Metric                                102.0000  -105.6500  -90.0000  top
+C4        100n                   C_0402_1005Metric                                 97.5650   -93.0800   90.0000  top
+C5        100n                   C_0402_1005Metric                                 94.8950  -101.0000  180.0000  top
+C6        100n                   C_0402_1005Metric                                100.8250  -105.6500  -90.0000  top
+C7        100n                   C_0402_1005Metric                                 94.8950   -97.4000  180.0000  top
+C8        100n                   C_0402_1005Metric                                105.1250  -101.0000    0.0000  top
+C9        100n                   C_0402_1005Metric                                105.1250   -97.5500    0.0000  top
+C10       100n                   C_0402_1005Metric                                105.1250   -96.5625    0.0000  top
+C12       100n                   C_0402_1005Metric                                 99.5150   -93.0800   90.0000  top
+C13       1u                     C_0402_1005Metric                                103.9100   -94.0300   90.0000  top
+C14       100n                   C_0402_1005Metric                                 95.0450   -91.5750  180.0000  top
+C15       15p                    C_0402_1005Metric                                 93.8300  -106.4300  -90.0000  top
+C16       1u                     C_0402_1005Metric                                103.9800   -83.4500    0.0000  top
+C17       1u                     C_0402_1005Metric                                106.7250   -85.0550  -90.0000  top
+C18       100n                   C_0402_1005Metric                                102.3650   -80.9150   90.0000  top
+C19       1u                     C_0402_1005Metric                                 98.5400   -93.0800   90.0000  top
+H1        MountingHole           Mounting_Hole_2mm_M2                              92.0100   -81.2000    0.0000  top
+H2        MountingHole           Mounting_Hole_2mm_M2                             108.0100   -81.2000    0.0000  top
+H3        MountingHole           Mounting_Hole_2mm_M2                              92.0100  -117.0000    0.0000  top
+H4        MountingHole           Mounting_Hole_2mm_M2                             108.0100  -117.0000    0.0000  top
+J1        Conn_01x02_Pin         SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm    92.9500   -89.7000    0.0000  top
+J2        Conn_01x03_Pin         SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm   105.2325  -106.4500   90.0000  top
+R1        1k                     R_0402_1005Metric                                 92.1650   -91.5750    0.0000  top
+R2        1k                     R_0402_1005Metric                                 99.8000  -105.1500   90.0000  top
+R4        27.4                   R_0402_1005Metric                                100.8500   -94.0200  -90.0000  top
+R5        27.4                   R_0402_1005Metric                                101.8500   -94.0200  -90.0000  top
+REF**     INFO                   INFO                                              99.7000  -114.6500    0.0000  top
+U1        MCP1700T-3302E/MAY     DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm                104.5500   -85.2250    0.0000  top
+U2        RPI_Chip_RP2040-7-500  QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm              100.0000  -100.0000    0.0000  top
+U3        W25Q16JVUXIQ_TR        Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm       94.1000   -93.5250    0.0000  top
+Y1        ABM8-272-T3            ABM8272T3                                         96.8000  -107.0500   90.0000  top
+## End
