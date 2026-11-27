@@ -121,7 +121,7 @@ All settings are in `Firmware/rppk/keymaps/default/`. Recompile and flash after 
 
 Key names are listed in the [QMK keycode reference](https://docs.qmk.fm/keycodes).
 
-## Bill of Materials (BOM)
+## Bill of Materials (3D)
 
 To assemble the enclosure, you will need the following hardware in addition to the 3D-printed parts:
 
