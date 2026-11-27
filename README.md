@@ -130,6 +130,8 @@ To assemble the enclosure, you will need the following hardware in addition to t
 | 4 | Screw | M2 x 8 mm | Socket head or pan head |
 | 4 | Nut | M2 | Standard hex nut |
 
+The spacers are necessary and must be placed between the lid and the PCB.
+
 ## License
 
 | Part | License | File |
